@@ -1,0 +1,9 @@
+# ninja log v6
+4	130	7510632025515219	CMakeFiles/untitled.dir/main.c.obj	36af7b475d408422
+24	144	7511647528070810	CMakeFiles/untitled.dir/bton.c.obj	93ed8479a6468a21
+156	363	7513123104762759	untitled.exe	5920f62b51c7b38d
+3	89	7511679482469604	CMakeFiles/untitled.dir/ros.c.obj	fe7965ab3c229321
+5	123	7512065436293545	CMakeFiles/untitled.dir/flag.c.obj	ceea37cac81c2950
+3	78	7511676400979951	CMakeFiles/untitled.dir/bton2.c.obj	ae929f3097932506
+2	226	7513313345414980	build.ninja	9221c3512d84e456
+5	154	7513123103262724	CMakeFiles/untitled.dir/fl3.c.obj	cfa9239c8d957a09
